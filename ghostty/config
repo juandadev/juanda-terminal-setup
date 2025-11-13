@@ -50,7 +50,10 @@
 
 theme = Synthwave Everything
 font-size = 16
-font-family = Monaco
+font-family = MesloLGS Nerd Font Mono
 
 background-opacity = 0.9
 background-blur-radius = 15
+
+window-width = 80
+window-height = 46
